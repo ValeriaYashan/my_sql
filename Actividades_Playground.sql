@@ -241,6 +241,4 @@ Insertá el número que obtuviste. */
 SELECT MAX(total)
 FROM facturas
 WHERE id_cliente = 48;
-© 2021 GitHub, Inc.
-Terms
-P
+
